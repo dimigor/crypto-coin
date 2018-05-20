@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733783432170",
+    "firebase_url": "https://cryptocoin-master.firebaseio.com",
+    "project_id": "cryptocoin-master",
+    "storage_bucket": "cryptocoin-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733783432170:android:62f92c9f0872419f",
+        "android_client_info": {
+          "package_name": "com.xiongxh.cryptocoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733783432170-7mkchfgtufkflrus8uhv2mea11pico4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xiongxh.cryptocoin",
+            "certificate_hash": "c30e5310f6c9c5b00ddc88309091d99d5fd82c12"
+          }
+        },
+        {
+          "client_id": "733783432170-vrtg30lcmj1caokk629h7i9i0dlo1dne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqMr8I-OWv-CrQ5Xee_xyg6tPlrlR4n4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733783432170-vrtg30lcmj1caokk629h7i9i0dlo1dne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
